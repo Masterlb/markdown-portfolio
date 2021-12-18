@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Hello *world*. I am **John Conner**. _How are you?_ __I am fine.__ __*Goodbye*__
